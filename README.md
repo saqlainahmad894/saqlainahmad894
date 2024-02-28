@@ -5,10 +5,10 @@
 <br/>
 <br/>
 <div>
-  - 🎓 2024 IT(B.Tech) Expected
-  - 💼 Fullstack Web Developer
-  - 📚 Currently learning Node.js, Angular.js, AWS, and DevOps
-  - 📧 Reach me at: [saqlainahmad894@gmail.com](mailto:saqlainahmad894@gmail.com)
-  - 🛠️ Critical Thinker and Collaborative Worker
+  - 🎓 2024 IT(B.Tech) Expected<br>
+  - 💼 Fullstack Web Developer<br>
+  - 📚 Currently learning Node.js, Angular.js, AWS, and DevOps<br>
+  - 📧 Reach me at: [saqlainahmad894@gmail.com](mailto:saqlainahmad894@gmail.com)<br>
+  - 🛠️ Critical Thinker and Collaborative Worker<br>
 </div>
 <br>
