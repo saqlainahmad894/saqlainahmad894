@@ -1,7 +1,4 @@
 <html>
-  <head>
-   
-  </head>
   <body>
     <div align="center">
         <h1 align="center">Welcome, this is Saqlain Ahmad</h1>
@@ -13,7 +10,7 @@
       - 🎓 2024 IT(B.Tech) Expected<br>
       - 💼 Fullstack Web Developer<br>
       - 📚 Currently learning Node.js, Angular.js, AWS, and DevOps<br>
-      - 📧 Reach me at: [saqlainahmad894@gmail.com](mailto:saqlainahmad894@gmail.com)<br>
+      - 📧 Reach me at: <a href="mailto:saqlainahmad894@gmail.com">saqlainahmad894@gmail.com</a><br>
       - 🛠️ Critical Thinker and Collaborative Worker<br>
     </div>
     <br>
