@@ -1,4 +1,3 @@
-
 <html>
   <body>
     <div align="center">
@@ -16,13 +15,4 @@
     </div>
     <br>
   </body>
-  <script>
-    document.addEventListener("DOMContentLoaded", function(event) {
-      document.querySelector("a[href='mailto:saqlainahmad894@gmail.com']").addEventListener("click", function(event) {
-        event.preventDefault();
-        window.location.href = "mailto:saqlainahmad894@gmail.com";
-      });
-    });
-  </script>
 </html>
-
