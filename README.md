@@ -19,5 +19,3 @@
     <br>
   </body>
 </html>
-
-....addstyling to the readme file
