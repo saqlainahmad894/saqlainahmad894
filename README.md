@@ -7,7 +7,7 @@
     <br/>
     <br/>
     <div>
-      - 🎓 2024 IT(B.Tech) Expected<br>
+      - 🎓 2024 IT(B.Tech) 8.462 CGPA<br>
       - 💼 Fullstack Web Developer<br>
       - 📚 Currently learning Node.js, Angular.js, AWS, and DevOps<br>
       - 📧 Reach me at: <a href="mailto:saqlainahmad894@gmail.com">saqlainahmad894@gmail.com</a><br>
